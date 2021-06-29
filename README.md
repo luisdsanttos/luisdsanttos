@@ -17,10 +17,12 @@
   </a>
 </p>
 
-<h4 dir="rtl"> 
+<h4 align="center"> 
 
   <script> alert ('Hello, World!'); </script>
 
+</h4>
+<h4 align="center"> 
 
   Bacharel em Sistemas de Informação com 6 anos de experiencia em TI trabalhando com dados. 
   
