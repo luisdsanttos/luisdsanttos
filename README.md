@@ -33,3 +33,5 @@ Here are some ideas to get you started:
     <img alt="logo Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/luisdsanttos">
   </a>
 </p>
+
+  ![Snake animation](https://github.com/luisdsanttos/luisdsanttos/blob/output/github-contribution-grid-snake.svg)
