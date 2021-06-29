@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<h4 align="center"> 
+<h4 dir="ltr"> 
 
   <script> alert ('Hello, World!'); </script>
 
