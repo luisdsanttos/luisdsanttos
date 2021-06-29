@@ -17,11 +17,10 @@
   </a>
 </p>
 
-<h4 style="background-color:#ffff00;" align="center" > 
-<font color="red">
+<h4 align="center" > 
   <script> alert ('Hello, World!'); </script>
-</font>
 </h4>
+
 <h4 align="center"> 
 
   Bacharel em Sistemas de Informação com 6 anos de experiencia em TI trabalhando com dados. 
