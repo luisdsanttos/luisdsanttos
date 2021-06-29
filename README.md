@@ -20,6 +20,8 @@
 <h4 align="center"> 
 
   &ltscript&gt alert ('Hello, World!'); &lt/script&gt
+  &lt script &gt alert ('Hello, World!'); &lt /script &gt
+  <script> alert ('Hello, World!'); </script>
 
   Bacharel em Sistemas de Informação com 6 anos de experiencia em TI trabalhando com dados. 
   
