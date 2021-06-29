@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=luisdsanttos&repo=github-visitors-badge&countColorcountColor&countColor=%1887CD)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=luisdsanttos&repo=luisdsanttos&countColorcountColor)
 
 <div align="center">
  <h1> 
-<a href="https://fontmeme.com/pt/fonte-de-harry-potter/"><img src="https://fontmeme.com/permalink/210629/f0d16ac36c18375ab327190ca28d3696.png" alt="fonte-de-harry-potter" border="0"></a>
+<a href="https://fontmeme.com/pt/fonte-de-harry-potter/"><img src="https://fontmeme.com/permalink/210629/b9578d940de1733c9562665fe42b4f55.png" alt="fonte-de-harry-potter" border="0"></a>
  </h1>
 </div>
 
