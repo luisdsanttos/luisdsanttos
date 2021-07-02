@@ -32,7 +32,7 @@
   Certificado PSM I em 2018.
   
   Estudando ecossistema de Engenharia de Dados:
-  Big Data, Cluster Hadoop, Docker, Sqoop, Spark, Hbase e HDFS. Conceitos noSQL, MongoDB e Redis, Kafka
+  Big Data, Cluster Hadoop, Docker, Sqoop, Spark, Hbase e HDFS. Conceitos noSQL, MongoDB e Redis, Kafka.
 
   Estou sempre em busca de novos desafios, conhecimento e oportunidade para coloca-los em pratica.
 
