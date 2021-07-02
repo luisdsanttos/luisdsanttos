@@ -8,11 +8,11 @@
 </div>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/luisdsanttos/">
+   <a href="https://www.linkedin.com/in/luisdsanttos/" target="_blank">
     <img alt="logo Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisdsanttos/">
   </a>
   
-<a href="https://twitter.com/luisdsanttos">
+<a href="https://twitter.com/luisdsanttos" target="_blank">
     <img alt="logo Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/luisdsanttos">
   </a>
 </p>
